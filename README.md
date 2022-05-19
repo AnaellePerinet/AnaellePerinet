@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaellePerinet
-- 👀 I’m interested in in anything to do with data analysis.
+- 👀 I’m interested in anything to do with data analysis.
 - 🌱 I’m currently learning statistics and data science
 - 📫 How to reach me : anaelleperinet@gmail.com // +33 6 12 13 28 68
 
